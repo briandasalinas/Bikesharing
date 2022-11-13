@@ -36,3 +36,5 @@ Using Tableau we were able to illustrate different data about the use of Citi Bi
 
 # Summary
 Citi Bike seems to be used mostly by locals. Male subscribers are the most frequent users and more than likely this is their primary form of transportation. The top start location and top end location are where these users live and/or work. Citi Bike seems to thrive in New York City because it's a walking city. If Des Moines Iowa is as walkable as New York City, then we can expect similar data. To further interprert this data, it would be useful to know where the bike riders live. As well, as specifying what is surrounding the top end locations in New York. This would further our understanding of why bike riders are choosing this service.
+
+[link to dashboard]:https://public.tableau.com/app/profile/brianda5031/viz/CitiBike_16683677815200/CitiBike?publish=yes
